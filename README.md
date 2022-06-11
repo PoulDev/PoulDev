@@ -10,4 +10,4 @@
 
 
 <br><h1>Statistics</h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JProgrammer-it&layout=compact&theme=react&hide_border=true" alt="JProgrammer" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=JProgrammer-it&layout=compact&theme=react&hide_border=true" alt="JProgrammer" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=JProgrammer-it&bg_color=30,332c50,46878f&title_color=fff&text_color=fff" alt="JProgrammer" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JProgrammer-it&bg_color=30,332c50,46878f&title_color=fff&text_color=fff" alt="JProgrammer" />
