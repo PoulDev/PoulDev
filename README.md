@@ -18,8 +18,9 @@
 
 
 <h1>Pinned Repositories</h1>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JProgrammer-it&repo=JUC&bg_color=30,332c50,46878f&title_color=fff&text_color=fff" alt="JProgrammer"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JProgrammer-it&repo=simple-PathFinding&bg_color=1a1c1f&title_color=fff&text_color=fff" alt="JProgrammer"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JProgrammer-it&repo=JUC&bg_color=1a1c1f&title_color=fff&text_color=fff" alt="JProgrammer"/>
 
 <h1>Statistics</h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JProgrammer-it&bg_color=30,332c50,46878f&title_color=fff&text_color=fff" alt="JProgrammer" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JProgrammer-it&bg_color=30,332c50,46878f&title_color=fff&text_color=fff" alt="JProgrammer" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=JProgrammer-it&bg_color=1a1c1f&title_color=fff&text_color=fff" alt="JProgrammer" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JProgrammer-it&bg_color=1a1c1f&title_color=fff&text_color=fff" alt="JProgrammer" />
