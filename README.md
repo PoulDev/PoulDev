@@ -17,10 +17,10 @@
 <h1>Pinned Repositories</h1>
 
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JProgrammer-it&repo=simple-PathFinding&bg_color=1a1c1f&title_color=fff&text_color=fff"/>](https://github.com/JProgrammer-it/simple-PathFinding)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=JProgrammer-it&repo=JUC&bg_color=1a1c1f&title_color=fff&text_color=fff" alt="JProgrammer"/>](https://github.com/JProgrammer-it/JUC)
+[<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PoulDev&repo=simple-PathFinding&bg_color=1a1c1f&title_color=fff&text_color=fff"/>](https://github.com/PoulDev/simple-PathFinding)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=PoulDev&repo=JUC&bg_color=1a1c1f&title_color=fff&text_color=fff" alt="JProgrammer"/>](https://github.com/PoulDev/JUC)
 
 
 <h1>Statistics</h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JProgrammer-it&bg_color=1a1c1f&title_color=fff&text_color=fff" alt="JProgrammer" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JProgrammer-it&bg_color=1a1c1f&title_color=fff&text_color=fff" alt="JProgrammer" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=PoulDev&bg_color=1a1c1f&title_color=fff&text_color=fff" alt="JProgrammer" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoulDev&bg_color=1a1c1f&title_color=fff&text_color=fff" alt="JProgrammer" />
