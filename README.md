@@ -1,9 +1,9 @@
 <h1> Hi, I'm Poul!</h1>
 
-- 🍕 I'm an Italian guy
-- 🐍 I’ve been using python for over two years
-- 🛡️ I like to try to create license systems as secure as possible ( I have not published anything yet )
-- 🐢 I've never installed the turtle python library, personally I hate it
+- 🍕 I'm an Italian guy.
+- 🐍 I’ve been using python for over two years.
+- 🛡️ I like to try to create license systems as secure as possible ( I have not published anything yet ).
+- 🐢 I've never installed the turtle python library, personally I hate it.
 
 <h1>Skills</h1>
 
