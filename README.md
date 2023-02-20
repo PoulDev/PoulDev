@@ -23,4 +23,3 @@
 
 
 - <img src="https://img.shields.io/static/v1?label=TAG&message=PoulDev%239458&color=5865f2&style=flat-square&logo=discord"/>
-- [<img src="https://img.shields.io/static/v1?label=TOX%20chat&message=%CA%AB%C9%BC%CA%98%CA%B4%CA%90%CA%B0%C9%BD%C9%B2%CA%91%CA%B2&color=5865f2&style=flat-square&logo=google-chat"/>](https://pastebin.com/raw/hf3au1k6)
