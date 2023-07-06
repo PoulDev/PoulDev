@@ -3,7 +3,6 @@
 - 🍕 I'm an Italian guy.
 - 🐍 I’ve been using python for over two years.
 - 🛡️ I like networking and cryptography.
-- 🐢 I've never used the turtle python library, personally I hate it.
 
 <h1>Skills</h1>
 
