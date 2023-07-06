@@ -1,7 +1,7 @@
 <h1> Hi, I'm Poul!</h1>
 
 - 🍕 I'm an Italian guy.
-- 🐍 I’ve been using python for over two years.
+- 🐍 I’ve been using python for over three years.
 - 🛡️ I like networking and cryptography.
 
 <h1>Skills</h1>
