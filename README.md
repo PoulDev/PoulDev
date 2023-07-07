@@ -15,10 +15,5 @@
 - <img src="https://img.shields.io/badge/OpenCV-1790a6?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 <h1>Statistics</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=PoulDev&bg_color=1a1c1f&title_color=fff&text_color=fff" alt="JProgrammer" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoulDev&bg_color=1a1c1f&title_color=fff&text_color=fff" alt="JProgrammer" />
-
-<h1>Contact me</h1>
-
-
-- <img src="https://img.shields.io/static/v1?label=TAG&message=@pouldev&color=5865f2&style=flat-square&logo=discord"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PoulDev&bg_color=1a1c1f&title_color=fff&text_color=fff"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoulDev&bg_color=1a1c1f&title_color=fff&text_color=fff"/>
