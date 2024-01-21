@@ -17,5 +17,5 @@
 
 <h1>Stats</h1>
 <a href="https://github.com/PoulDev?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoulDev&bg_color=1a1c1f&title_color=fff&text_color=fff"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoulDev&bg_color=1a1c1f&title_color=fff&text_color=fff&hide=html,css"/>
 </a>
