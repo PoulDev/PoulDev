@@ -20,5 +20,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoulDev&layout=compact&langs_count=8&card_width=320&hide=html,css,AMPL,batchfile,bash&theme=tokyonight" />
 </a>
 <a href="https://github.com/PoulDev?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PoulDev&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PoulDev&theme=tokyonight&hide_rank=true" />
 </a>
