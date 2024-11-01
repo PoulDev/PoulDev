@@ -4,7 +4,7 @@
 - 🍕 I'm an Italian guy.
 - 🐍 I started programming in 2020, using Python.
 - 🛡️ I like networking and cryptography.
-- 🏴‍☠️ Author of [drugdeal.us](https://drugdeal.us)
+- 🧪 Author of [drugdeal.us](https://drugdeal.us)
 
 <h1>Skills</h1>
 <p float="left">
