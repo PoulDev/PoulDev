@@ -21,4 +21,5 @@ i make stuff in C, C++ and Py
 
 <br>
 <br>
-<a href=”https://www.venganza.org”><img src=”https://www.venganza.org/images/fsmbanner1.jpg” /></a>
+
+<a href="https://www.venganza.org/"><img src="https://www.venganza.org/images/fsmbanner1.jpg" /></a>
