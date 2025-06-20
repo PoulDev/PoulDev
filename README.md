@@ -1,5 +1,5 @@
 <h1> Hi, I'm Poul!</h1>
-i make stuff in C, C++ and Py
+i make stuff for fun
 
 ## Highlights
 - [🧠 Neural Network implemented from scratch](https://github.com/PoulDev/NeuralNetwork)
@@ -10,7 +10,7 @@ i make stuff in C, C++ and Py
 - [🖌️ Render Bezier Curves in C++](https://github.com/PoulDev/BezierCurves)
 
 ## Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=py,go,c,cs,java,js,bash,v)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=py,go,c,cpp,cs,java,js,bash,v)](https://skillicons.dev)
 
 ## Skills
 [![Skills](https://skillicons.dev/icons?i=flask,nginx,mongodb,mysql,redis,docker,qt,selenium,cloudflare,linux,opencv,raspberrypi,neovim,git)](https://skillicons.dev)
